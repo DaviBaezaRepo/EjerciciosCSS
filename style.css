@@ -1,0 +1,17 @@
+* {background-color: blueviolet;}
+p {
+
+    background-color: brown;
+}
+#Titutlo{
+    color: yellow;
+}
+.titulos {
+    background-color: black;
+}
+input :in-range {
+    background-color: chartreuse;
+}
+input :out-of-range {
+    background-color: red;
+}
